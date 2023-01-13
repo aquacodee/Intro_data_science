@@ -1,2 +1,3 @@
 # Intro_data_science
 Data science is an interdisciplinary field that combines statistical and computational techniques to extract insights and knowledge from data. It involves the collection, cleaning, and analysis of large and complex datasets, as well as the development of models and algorithms to extract insights from the data.
+As you notice, Data Science is a field that involves a combination of skills and knowledge from different domains such as statistics, computer science, and domain knowledge. It's a field that can help organizations to gain insights and make decisions based on data, and it's a field that is constantly evolving, with new tools and techniques emerging all the time.
